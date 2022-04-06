@@ -1,5 +1,5 @@
 ### Hi there 👋
-**My name is Qudus, and I'm a self-taught Data Analytics Engineer and SQL lover from Nigeria.**
+*My name is Qudus, and I'm a self-taught Data Analytics Engineer and SQL lover from Nigeria.*
 
 - 🔭 I’m currently working on Danny Ma's 8 Week SQL challenge
 - 🌱 I’m currently learning SQL and DBT
