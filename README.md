@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Danny Ma's 8 Week SQL challenge
 - 🌱 I’m currently learning SQL and DBT
 - 👯 I’m looking to collaborate on DBT projects
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for help with DBT projects
 - 💬 Ask me about Data, Arabic and Religion
 - 📫 How to reach me: adeyemiqudus361@gmail.com
 - 😄 Pronouns: He
