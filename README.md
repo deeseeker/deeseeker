@@ -1,10 +1,5 @@
 ### Hi there 👋
-
-
-<!--
-**deeseeker/deeseeker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+***My name is Qudus, and I'm a self-taught Data Analytics Engineer and SQL lover from Nigeria.
 
 - 🔭 I’m currently working on Danny Ma's 8 Week SQL challenge
 - 🌱 I’m currently learning SQL and DBT
@@ -14,4 +9,4 @@
 - 📫 How to reach me: adeyemiqudus361@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love learning new languages
--->
+
