@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning SQL and DBT
 - 👯 I’m looking to collaborate on DBT projects
 - 🤔 I’m looking for help with DBT projects
-- 💬 Ask me about Data, Arabic and Religion
+- 💬 Ask me about Data Analytics,Analytics Engineering,Data Science
 - 📫 How to reach me: adeyemiqudus361@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love learning new languages
