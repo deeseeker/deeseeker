@@ -1,14 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)there!
 =====================================================================================================================================
-
-Front end developer
+I'm Qudus, a self-taught front-end developer proficient in JavaScript, React, Python, and SQL. Passionate about learning and tackling diverse software projects to create impactful solutions. Let's innovate together!
 -------------------
 
 *   🌍  I'm based in Nigeria
 *   🖥️  See my portfolio at [My GitHub profile](http://https://github.com/deeseeker/PortfolioProjects)
 *   ✉️  You can contact me at [adeyemiqudus361@gmail.com](mailto:adeyemiqudus361@gmail.com)
 *   🚀  I'm currently working on [Logisifi-Pro](http://https://github.com/H-Ozomgbachi/thh-client-app/tree/test)
-*   🧠  I'm learning Material UI,Formik, Mobx React
+*   🧠  I'm learning Material UI, Formik, Mobx React
 *   🤝  I'm open to collaborating on Front end and machine-learning projects
 *   ⚡  I love philosophical conversations and watching educative documentaries### Skills 
 <p align="left">
