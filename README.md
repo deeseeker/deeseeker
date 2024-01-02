@@ -1,5 +1,5 @@
 
-Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)*I'm Qudus, a self-taught web developer proficient in JavaScript, React, Python, and SQL. Passionate about learning and tackling diverse software projects to create impactful solutions. Let's innovate together!*
+Hi ! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Qudus, a self-taught web developer proficient in JavaScript, React, Python, and SQL. Passionate about learning and tackling diverse software projects to create impactful solutions. Let's innovate together!
 =====================================================================================================================================
 
 Front end developer
