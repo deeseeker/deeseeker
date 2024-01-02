@@ -8,7 +8,7 @@ Front end developer
 * 🖥️  See my portfolio at [My GitHub profile](http://https://github.com/deeseeker/PortfolioProjects)
 * ✉️  You can contact me at [adeyemiqudus361@gmail.com](mailto:adeyemiqudus361@gmail.com)
 * 🚀  I'm currently working on [Logisifi-Pro](http://https://github.com/H-Ozomgbachi/thh-client-app/tree/test)
-* 🧠  I'm learning Material UI, Formik, Mobx React
+* 🧠  I'm learning Material UI,Formik, Mobx React
 * 🤝  I'm open to collaborating on Front end and machine-learning projects
 * ⚡  I love philosophical conversations and watching educative documentaries
 
@@ -28,10 +28,8 @@ Front end developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/deeseeker"><img src="https://github-readme-stats.vercel.app/api?username=deeseeker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="deeseeker's GitHub stats" /></a>
+<a href="http://www.github.com/deeseeker"><img src="https://github-readme-stats.vercel.app/api?username=deeseeker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="deeseeker's GitHub stats" /></a>
 
-<a href="http://www.github.com/deeseeker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deeseeker&stroke=ef4444&background=ffffff&ring=0891b2&fire=0891b2&currStreakNum=ef4444&currStreakLabel=0891b2&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+<a href="http://www.github.com/deeseeker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deeseeker&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
-
-
-<a href="https://github.com/deeseeker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeseeker&langs_count=10&title_color=0891b2&text_color=ef4444&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/deeseeker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeseeker&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
