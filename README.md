@@ -8,7 +8,7 @@ Front end developer
 * 🖥️  See my portfolio at [My GitHub profile](http://https://github.com/deeseeker/PortfolioProjects)
 * ✉️  You can contact me at [adeyemiqudus361@gmail.com](mailto:adeyemiqudus361@gmail.com)
 * 🚀  I'm currently working on [Logisifi-Pro](http://https://github.com/H-Ozomgbachi/thh-client-app/tree/test)
-* 🧠  I'm learning Material UI,Formik, Mobx React
+* 🧠  I'm learning Accessibility
 * 🤝  I'm open to collaborating on Front end and machine-learning projects
 * ⚡  I love philosophical conversations and watching educative documentaries
 
