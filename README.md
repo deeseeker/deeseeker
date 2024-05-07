@@ -5,9 +5,8 @@ Front end developer
 -------------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [My GitHub profile](http://https://github.com/deeseeker/PortfolioProjects)
 * ✉️  You can contact me at [adeyemiqudus361@gmail.com](mailto:adeyemiqudus361@gmail.com)
-* 🚀  I'm currently working on [Logisifi-Pro](http://https://github.com/H-Ozomgbachi/thh-client-app/tree/test)
+* 🚀  I'm currently working on [Logisifi-Pro](https://logisfi.netlify.app/) and [Revva App]([https://logisfi.netlify.app/](https://myrevva.com/))
 * 🧠  I'm learning Accessibility
 * 🤝  I'm open to collaborating on Front end and machine-learning projects
 * ⚡  I love philosophical conversations and watching educative documentaries
