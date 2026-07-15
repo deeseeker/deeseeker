@@ -39,15 +39,15 @@ I care about writing clean code, building things that actually work under pressu
 
 ## 🚀 Things I've built
 
-### Revva — Content Creator Social Platform
+### [Revva](https://myrevva.com/) — Content Creator Social Platform
 Led the engineering of a social platform for content creators from zero to **10,000+ active users**.
 - Built real-time chat using WebSockets, increasing user engagement by 40%
 - Integrated Paystack for payments, improving transaction speed by 30%
 - Cut page load times by 25% through performance optimisation
 - Led a small engineering team and worked closely with design and product
 
-### E-station — Ecommerce Platform
-Built a full ecommerce platform from scratch for an Iraqi-based company, working fully remote.
+### [Caraten](https://caraten.com/en) — Ecommerce Platform *(built at E-station)*
+Built a full ecommerce platform as part of my work at E-station, a web agency, working fully remote.
 - Product listings, cart, bulk order management, and checkout flows
 - Operations dashboards with advanced filters and dynamic data tables
 - Role-based access control across different user types
@@ -70,15 +70,16 @@ Contributed the `useWatchAssets` hook to the Starknet React library, enabling li
 ---
 
 
-## Badges
+## 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeseeker&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&include_all_commits=true" alt="Qudus's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeseeker&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=true&layout=compact&custom_title=Top%20Languages" alt="Top Languages" height="180"/>
+</p>
 
-<a href="http://www.github.com/deeseeker"><img src="https://github-readme-stats.vercel.app/api?username=deeseeker&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="deeseeker's GitHub stats" /></a>
-
-<a href="http://www.github.com/deeseeker"><img src="https://github-readme-streak-stats.herokuapp.com/?user=deeseeker&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
-
-<a href="https://github.com/deeseeker" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeseeker&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deeseeker&stroke=ffffff&background=0d1117&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=0891b2&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
 ## 📫 Reach me
